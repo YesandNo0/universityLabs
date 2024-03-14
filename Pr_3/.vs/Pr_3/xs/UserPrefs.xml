@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9618ED06-D191-42D6-BCBF-E8A796F7511C}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pr_3/Program.cs">
+    <Files>
+      <File FileName="Pr_3/Program.cs" Line="16" Column="1" />
+      <File FileName="Pr_3/ModuleTask1/Author.cs" Line="14" Column="56" />
+      <File FileName="Pr_3/ModuleTask1/Book.cs" Line="1" Column="27" />
+      <File FileName="Pr_3/ModuleTask1/Content.cs" Line="14" Column="59" />
+      <File FileName="Pr_3/ModuleTask1/Title.cs" Line="14" Column="57" />
+      <File FileName="Pr_3/ModuleTask2/Figure.cs" Line="47" Column="34" />
+      <File FileName="Pr_3/ModuleTask2/Point.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pr_3">
+            <Node name="Pr_3">
+              <Node name="ModuleTask1" expanded="True" />
+              <Node name="ModuleTask2" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Pr__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
